@@ -7,6 +7,7 @@ require("@rails/ujs").start()
 //= require jquery
 require("turbolinks").start()
 //= require semantic-ui
+require("packs/custom")
 require("@rails/activestorage").start()
 require("channels")
 
